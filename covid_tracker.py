@@ -4,7 +4,6 @@ import datetime
 import matplotlib.pyplot as plt
 import json
 
-
 new_cases = 'newCases'
 cum_cases = 'cumCases'
 
